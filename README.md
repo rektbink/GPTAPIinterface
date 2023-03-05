@@ -11,3 +11,6 @@ One log files stores the last conversation history
 The other log file is appended to add the last conversation.
 
 This way you can automatically load the last conversation, and have storage for all of your conversations. All datestamped. 
+
+
+Updated 3/5/23: Corrected button locations. Added Multi-threading.
